@@ -6,18 +6,20 @@ Tutorial Overview
 
 This tutorial is divided into three parts; they are:
 
-[-]Regression Loss Functions
-[-]Mean Squared Error Loss
-Mean Squared Logarithmic Error Loss
-Mean Absolute Error Loss
-Binary Classification Loss Functions
-Binary Cross-Entropy
-Hinge Loss
-Squared Hinge Loss
-Multi-Class Classification Loss Functions
-Multi-Class Cross-Entropy Loss
-Sparse Multiclass Cross-Entropy Loss
-Kullback Leibler Divergence Loss
+**Regression Loss Functions**
+[x]Mean Squared Error Loss
+[x]Mean Squared Logarithmic Error Loss
+[x]Mean Absolute Error Loss
+
+**Binary Classification Loss Functions**
+[x]Binary Cross-Entropy
+[x]Hinge Loss
+[x]Squared Hinge Loss
+
+**Multi-Class Classification Loss Functions**
+[x]Multi-Class Cross-Entropy Loss
+[x]Sparse Multiclass Cross-Entropy Loss
+[x] Kullback Leibler Divergence Loss
 
 
 Env uses keras and tensforflow (v1)
