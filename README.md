@@ -7,9 +7,9 @@ Tutorial Overview
 This tutorial is divided into three parts; they are:
 
 **Regression Loss Functions**
-- [ ]Mean Squared Error Loss
-- [ ]Mean Squared Logarithmic Error Loss
-- [ ]Mean Absolute Error Loss
+- [x]Mean Squared Error Loss
+- [x]Mean Squared Logarithmic Error Loss
+- [x]Mean Absolute Error Loss
 
 **Binary Classification Loss Functions**
 - [x] Binary Cross-Entropy
