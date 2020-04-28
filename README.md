@@ -6,8 +6,8 @@ Tutorial Overview
 
 This tutorial is divided into three parts; they are:
 
-Regression Loss Functions
-Mean Squared Error Loss
+[-]Regression Loss Functions
+[-]Mean Squared Error Loss
 Mean Squared Logarithmic Error Loss
 Mean Absolute Error Loss
 Binary Classification Loss Functions
