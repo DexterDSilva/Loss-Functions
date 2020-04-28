@@ -24,3 +24,5 @@ This tutorial is divided into three parts; they are:
 
 Env uses keras 2.3.1 and tensforflow (1.15.0) and all the other stuff
 See py3cv4tf1_reqts.txt
+
+Setup - MBP Mid-2012 / High Sierra 10.13.6
